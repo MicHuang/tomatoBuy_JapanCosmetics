@@ -1,0 +1,24 @@
+.credit-container {
+  text-align: center;
+  min-height: 100%;
+
+  background-image: url('https://blogrebellive.files.wordpress.com/2013/09/grey-background-for-site11.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.dotted {
+  border: 1px dotted grey;
+}
+
+.body {
+  margin: 10px;
+}
+
+.picture {
+  height: 140px;
+  width:  140px;
+  margin: 10px;
+}
