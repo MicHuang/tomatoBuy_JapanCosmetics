@@ -3,6 +3,11 @@ html {
   box-sizing: border-box;
 }
 
+div {
+  background-color: transparent;
+  display: block;
+}
+
 body {
   position: relative;
   margin: 0;
@@ -19,4 +24,8 @@ body {
   padding: 1rem;
   background-color: #efefef;
   text-align: center;
+}
+
+.nav-bar {
+  color: #444;
 }
