@@ -1,0 +1,62 @@
+html {
+  font-family: 'Raleway', sans-serif;
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  background:url("../img/bgimg.jpg") no-repeat;
+  background-attachment: fixed;
+}
+
+.contanier {
+    text-align: center;
+}
+
+.dotted {
+  border: dotted 1px red;
+}
+
+.section-inner {
+  width: 1280px;
+  max-width: 90%;
+  margin: auto;
+  margin-top: 80px;
+}
+
+.title {
+  text-align: center;
+  color: rgba(255,255,255,0.8);
+  position: relative;
+}
+
+.subtitle {
+  font-size: 1.25em;
+  font-weight: 400;
+  font-style: italic;
+  color: rgba(255,255,255,0.8);
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+  margin: 30px 0 0 0;
+  text-align: center;
+  position: relative;
+}
+
+.post {
+  width: 320px;
+  padding: 10px;
+  margin-bottom: 200px;
+}
+
+.item {
+  display: grid;
+  margin-bottom: 20px;
+}
+
+.content img {
+  max-width: 300px;
+}
+
+.item-info {
+  background: #FFF;
+  padding: 10px 30px;
+}
