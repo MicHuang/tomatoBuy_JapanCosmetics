@@ -5,11 +5,7 @@ html {
 }
 
 body {
-<<<<<<< HEAD
-  background:url("../img/bgimg2.jpg") no-repeat;
-=======
   background:url("../img/bgimg.jpg") no-repeat;
->>>>>>> JoyceDan/master
   background-attachment: fixed;
 }
 
@@ -48,10 +44,7 @@ body {
 .post {
   width: 320px;
   padding: 10px;
-<<<<<<< HEAD
-=======
   margin-bottom: 200px;
->>>>>>> JoyceDan/master
 }
 
 .item {
